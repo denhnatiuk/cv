@@ -16,8 +16,8 @@ If you've seen some bugs or have offers for me, I`ll be glad to discuss them wit
               </div>
             </div>
           </a>
-          <a href="viber://add?number=+380507393463" id="viber" target="_blank">
-          <!-- <a href="https://chatapi.viber.com/pa/send_message?reciever=+380507393463" id="viber" target="_blank"> -->
+          <!--<a href="viber://add?number=+380507393463" id="viber" target="_blank"> -->
+          <a href="https://chatapi.viber.com/pa/send_message?reciever=+380507393463" id="viber" target="_blank"> 
           <!-- <a href="viber:/+380507393463" id="viber"> -->
             <div class="tooltip">
               <div class="tooltiptext">
