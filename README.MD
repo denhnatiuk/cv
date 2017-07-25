@@ -5,7 +5,7 @@
 Hi! Pleased to see you on my GitHub profile. Thanks for your interest to me and my work.
 
 Here you can find my web development projects and some other stuff. Look out and say what you think about it.
-If you've seen some bugs or have bills, you can read it.
+If you've seen some bugs or have offers for me, I`ll be glad to discuss them with you.
 
 <dl>
           <a href="tel:+380507393463" id="tel">
