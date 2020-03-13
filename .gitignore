@@ -1,0 +1,4 @@
+.git
+.temporary
+.env
+node_modules
