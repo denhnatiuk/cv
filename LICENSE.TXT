@@ -1,0 +1,3 @@
+This repo contains information about me and my projects.
+
+Despite the fact that source code is public, info that contained in this repo can be sensitive and protected by General Data Protection Regulation (GDPR).

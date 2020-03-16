@@ -1,9 +1,11 @@
 {
   "name": "CV|DenHnatiuk",
-  "version": "",
+  "version": "2020.03.16",
   "repository": {
     "type": "git",
     "url": "https://github.com/DenysHnatiuk/cv"
   },
-  "description": "hire me! I`m awesome :)"
+  "description": "hire me! I`m awesome :)",
+  "homepage": "https://denyshnatiuk.github.io/cv/",
+  "license" : "SEE LICENSE IN LICENSE.TXT"
 }
