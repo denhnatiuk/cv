@@ -1,4 +1,6 @@
 .git
 .temporary
+.idea
 .env
+.https
 node_modules
